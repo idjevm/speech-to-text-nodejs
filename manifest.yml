@@ -7,6 +7,6 @@ applications:
 - name: speech-to-text-by-JV
   path: .
   command: npm start
-  memory: 250M
+  memory: 122M
   services:
   - Speech to Text-8e
