@@ -2,7 +2,7 @@
 declared-services:
   my-stt-service:
     label: speech_to_text
-    plan: standard
+    plan: lite
 applications:
 - name: speech-to-text-by-JV
   path: .
